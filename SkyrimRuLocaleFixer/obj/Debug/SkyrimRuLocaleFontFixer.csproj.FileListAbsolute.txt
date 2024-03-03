@@ -1,0 +1,14 @@
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\SkyrimRuLocaleFontFixer.csproj.AssemblyReference.cache
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\SkyrimRuLocaleFixer.MainForm.resources
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\SkyrimRuLocaleFontFixer.csproj.GenerateResource.cache
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\SkyrimRuLocaleFontFixer.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\SkyrimRuLocaleFontFixer.Properties.Resources.resources
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\bin\Debug\Исправитель шрифта русской локализации Skyrim SE.exe.config
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\bin\Debug\Исправитель шрифта русской локализации Skyrim SE.exe.manifest
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\bin\Debug\Исправитель шрифта русской локализации Skyrim SE.application
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\bin\Debug\Исправитель шрифта русской локализации Skyrim SE.exe
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\bin\Debug\Исправитель шрифта русской локализации Skyrim SE.pdb
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\Исправитель шрифта русской локализации Skyrim SE.exe.manifest
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\Исправитель шрифта русской локализации Skyrim SE.application
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\Исправитель шрифта русской локализации Skyrim SE.exe
+D:\Visual Studio 2022 Projects\SkyrimRuLocaleFixer\SkyrimRuLocaleFixer\obj\Debug\Исправитель шрифта русской локализации Skyrim SE.pdb
