@@ -16,7 +16,7 @@
 > ```
 
 > [!NOTE]
-> Скачать фиксер можно в этом репозитории, название файла "Исправитель шрифта русской локализации Skyrim SE-AE.exe"
+> Скачать фиксер можно [тут](https://github.com/Rimjact/Skyrim-SE-AE-russian-locale-font-fixer/releases).
 
 > [!NOTE]
 > Исходный код [доступен в архиве](https://github.com/Rimjact/Skyrim-SE-AE-russian-locale-font-fixer/releases) (проект C# .NET для Visual Studio 2022).
