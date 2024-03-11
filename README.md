@@ -19,7 +19,7 @@
 > Скачать фиксер можно в этом репозитории, название файла "Исправитель шрифта русской локализации Skyrim SE-AE.exe"
 
 > [!NOTE]
-> Исходный код доступен в архиве "skyrim-se-ae-russian-translate-font-fixer-source-code.zip" (проект C# .NET для Visual Studio 2022).
+> Исходный код [доступен в архиве](https://github.com/Rimjact/Skyrim-SE-AE-russian-locale-font-fixer/releases) (проект C# .NET для Visual Studio 2022).
 
 > [!CAUTION]
 > Приложение поддерживает только Skyrim Special Edition и Skyrim Anniversary Edition любых версий. Skyrim Legendary Edition не поддерживается.
